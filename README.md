@@ -44,7 +44,7 @@ The goal of this project is to analyze retail sales data and identify trends, pr
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](Superstore-Dashboard.png)
 
 ---
 
